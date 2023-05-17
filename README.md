@@ -6,10 +6,10 @@ qiankun 是一个基于 single-spa 的微前端实现库，旨在帮助大家能
 
 ## qiankun 官网地址
 
-(https://qiankun.umijs.org/zh/guide)
+https://qiankun.umijs.org/zh/guide
 
 ## 项目笔记详解
 
-(https://qiankun.umijs.org/zh/guide)
+https://qiankun.umijs.org/zh/guide
 
 
