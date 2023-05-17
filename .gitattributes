@@ -1,0 +1,7 @@
+*.js linguist-language=qiankun
+
+*.css linguist-language=qiankun
+
+*.html linguist-language=qiankun
+
+*.vue linguist-language=vue
