@@ -4,4 +4,4 @@
 
 *.html linguist-language=qiankun
 
-*.vue linguist-language=vue
+*.vue linguist-language=qiankun / vue
