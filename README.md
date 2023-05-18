@@ -10,6 +10,6 @@ https://qiankun.umijs.org/zh/guide
 
 ## 项目笔记详解
 
-https://qiankun.umijs.org/zh/guide
+https://blog.csdn.net/aibujin/article/details/130341208?spm=1001.2014.3001.5501
 
 
